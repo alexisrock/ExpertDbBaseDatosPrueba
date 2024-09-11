@@ -8,3 +8,7 @@ la rutra es
 ExpertDbBaseDatosPrueba\ExpertDB\ExpertDB\DDL
 
 y dentor de ddl esta el script
+
+
+
+
